@@ -20,7 +20,6 @@ For the class project:
 
 - **Project Files**: All SVG and CSS files used in the project are stored in the `/projects` directory.
 - **Code Snippets**: Specific CSS animation code snippets are available in the `/snippets` directory.
-- **Demo**: You can view a live demo of the project via [CodePen](https://codepen.io) or GitHub Pages (link coming soon).
 
 ### Getting Started
 
@@ -53,7 +52,7 @@ svg path {
 
 ## Resources
 
-- [Skillshare Course](https://www.skillshare.com/)
+- [Skillshare Course](https://www.skillshare.com/en/classes/creative-coding-animating-svg-with-simple-css-code/1735436116)
 - [MDN Web Docs - CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)
 - [MDN Web Docs - SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
